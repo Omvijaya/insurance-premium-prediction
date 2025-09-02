@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+
+# Jupyter / Notebooks
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+data/
+datasets/
+
+# MLflow / Logs
+mlruns/
+logs/
